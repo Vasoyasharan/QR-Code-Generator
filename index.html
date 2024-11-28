@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <title>QR Code Generator</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+    <header>
+        <h1>QR Code Generator</h1>
+    </header>
+    <div id="qrcode-container">
+        <div id="qrcode"></div>
+        <input type="url" id="linkInput" placeholder="Enter your link here..." />
+        <div class="color-inputs">
+            <div class="color-picker">
+                <input type="color" id="fgColor" value="#000000">
+                <label for="fgColor">Foreground</label>
+            </div>
+            <div class="color-picker">
+                <input type="color" id="bgColor" value="#ffffff">
+                <label for="bgColor">Background</label>
+            </div>
+        </div>
+        <div class="buttons">
+            <button id="generateBtn">Generate QR Code</button>
+            <button id="downloadBtn">Download QR Code</button>
+        </div>
+        <p id="errorMsg" class="error"></p>
+    </div>
+    <script  src="script.js"></script>
+</body>
+</html>
