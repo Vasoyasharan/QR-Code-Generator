@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Vasoyasharan/dynamic-qr-code-generator.git
+   git clone https://github.com/Vasoyasharan/QR-Code-Generator.git
    cd dynamic-qr-code-generator
 
 2. **Open the project in your browser:**
@@ -64,16 +64,25 @@ Follow these steps to set up the project locally:
 ### Contributions are always welcome! If you want to improve this project, please:
 
   1. Fork the repository.
-  2. Create a new branch (git checkout -b feature-new-feature).
-  3. Commit your changes (git commit -m "Add new feature").
-  4. Push to the branch (git push origin feature-new-feature).
+  2. Create a new branch (`git checkout -b feature-new-feature`).
+  3. Commit your changes (`git commit -m "Add new feature"`).
+  4. Push to the branch (`git push origin feature-new-feature`).
   5. Open a pull request.
 
 ---
 
-## **Contact**
+## 🌐 Connect Me
 
-For any questions or feedback, feel free to reach out:
+<div align="center" style="padding: 20px;">
+  <a href="https://www.linkedin.com/in/sharan-vasoya-b6a21824a" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://instagram.com/sharan_vasoya_07?igshid=ZDdkNTZiNTM=" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://sharan.is-a.dev" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+</div>
 
-  - GitHub: Vasoyasharan
-  - Portfolio: sharan.is-a.dev
+---
